@@ -1,3 +1,5 @@
+# Bitte mail an: lieblings-kollege@firma.de senden
+
 # Contributing
 
 Your contributions are always welcome!
